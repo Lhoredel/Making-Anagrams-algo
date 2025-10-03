@@ -1,1 +1,2 @@
 # Making-Anagrams-algo
+This code solves the Making Anagrams problem by calculating the minimum character deletions needed to make two strings anagrams of each other. It counts character frequencies in both strings using arrays, then computes the absolute differences between corresponding character counts. The total deletions required equals the sum of all frequency mismatches, ensuring both strings end up with identical character compositions.
